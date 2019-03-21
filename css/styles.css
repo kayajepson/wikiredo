@@ -19,3 +19,20 @@ ul.top {
 .blue {
   background-color: #EEF7FC;
 }
+
+img.one {
+  float: left;
+  margin-right: 5px;
+}
+img.two {
+  float: right;
+}
+
+img.three {
+  float: right;
+}
+
+img.four {
+  float: right;
+  padding-left: 10px;
+}

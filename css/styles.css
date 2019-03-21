@@ -57,3 +57,18 @@ p.five {
 p.six {
   padding: 125px;
 }
+
+.login {
+  float: right;
+  font-size: 14px;
+  margin-top: 3px;
+}
+
+.logo {
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+.lefttab {
+    float: right;
+}

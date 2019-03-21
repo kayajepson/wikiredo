@@ -24,6 +24,10 @@ ul.top {
   background-color: #FCEEF2;
 }
 
+.darkblue {
+  background-color: #E0E7EE;
+}
+
 img.one {
   float: left;
   margin-right: 5px;
@@ -47,5 +51,9 @@ img.five {
 }
 
 p.five {
+  padding: 125px;
+}
+
+p.six {
   padding: 125px;
 }

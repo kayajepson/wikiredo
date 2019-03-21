@@ -12,6 +12,7 @@ ul.top {
   padding: 2px;
   margin: 10px;
 }
+
 .green {
   background-color: #F2FCEE;
 }
@@ -71,4 +72,8 @@ p.six {
 
 .lefttab {
     float: right;
+}
+
+body {
+  background-color: #F6F6F6;
 }

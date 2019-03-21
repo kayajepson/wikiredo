@@ -12,15 +12,10 @@ ul.top {
   padding: 2px;
   margin: 10px;
 }
-
-.panel-heading {
-  background-color: orange;
-}
-
-.panel  {
-  background-color: purple;
-}
-
 .green {
-  background-color: green;
+  background-color: #F2FCEE;
+}
+
+.blue {
+  background-color: #EEF7FC;
 }
